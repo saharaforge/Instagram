@@ -23,4 +23,4 @@ The photo quality might be pretty rough because I don't have a great setupðŸ“¸ðŸ
 (This GitHub repository is mainly for sharing photos between the device used for shooting and the device used for posting.)
 
 # ACCOUNTS
-[saharaforge.com](saharaforge.com)
+[INSTAGRAM](https://instagram.com/saharaforge)
