@@ -24,3 +24,4 @@ The photo quality might be pretty rough because I don't have a great setupðŸ“¸ðŸ
 
 # ACCOUNTS
 [INSTAGRAM](https://instagram.com/saharaforge)
+<a href="https://instagram.com/saharaforge" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
