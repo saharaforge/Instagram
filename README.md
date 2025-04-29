@@ -30,4 +30,4 @@ The photo quality might be pretty rough because I don't have a great setupðŸ“¸ðŸ
 [![Pixiv](https://img.shields.io/badge/Pixiv-%230096fa.svg?&style=for-the-badge&logo=Pixiv&logoColor=white)](https://www.pixiv.net/users/111257690)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/saharaforge)
 
-[![Taplink](https://img.shields.io/badge/Taplink-%23000000.svg?&style=for-the-badge&logo=Taplink&logoColor=white)](https://taplink.cc/saharaforge)
+Links: [Here](https://taplink.cc/saharaforge)
