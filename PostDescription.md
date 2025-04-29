@@ -1,4 +1,4 @@
-## on INSTAGRAM
+## INSTAGRAM
 
 英題
 
@@ -12,7 +12,7 @@ Photos aren't perfect, and I might slack off some days, but I'm just having fun 
 #analogart #sketch #dailydrawing #drawingeveryday #artofinstagram #artistsoninstagram #handdrawn #instaart #dailyarts #drawdaily #artdaily #roughskecth
 
 
-## on Pixiv (JP)
+## Pixiv (JP)
 
 題
 
@@ -22,7 +22,7 @@ Photos aren't perfect, and I might slack off some days, but I'm just having fun 
 撮影環境が悪いため、写真が荒かったり、たまに投稿をサボったりしますが、気楽にやっていきます。
 
 
-## on Pixiv (EN)
+## Pixiv (EN)
 
 Title
 
