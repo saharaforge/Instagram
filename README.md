@@ -26,9 +26,6 @@ The photo quality might be pretty rough because I don't have a great setupðŸ“¸ðŸ
 
 # SNS
 
-<a href="https://instagram.com/saharaforge" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-<a href="https://x.com/saharaforge" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
-
-
-<a href="https://youtube.com/@saharaforge" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23CF2E92.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saharaforge)
+[![Pixiv](https://img.shields.io/badge/Pixiv-%230096fa.svg?&style=for-the-badge&logo=Pixiv&logoColor=white)](https://www.pixiv.net/users/111257690)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/saharaforge)
