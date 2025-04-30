@@ -30,3 +30,6 @@ Drawn on 曜, 月日, 年
 
 I’m posting hand-drawn pictures from the day before as part of a project called "Last Day's Lines."
 Due to a poor shooting setup, the pictures can be rough, and I might skip posting some days, but I’m just taking it easy and continuing.
+
+## Pixiv（タグ）
+アナログ絵 手書き ラフ画 毎日絵
