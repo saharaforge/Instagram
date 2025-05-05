@@ -11,7 +11,7 @@ saharaforgeのインスタグラムにて、毎日イラストを投稿してい
 （このGitHubレポジトリは、撮影に使う端末と投稿に使う端末の間で写真を共有することが第一目的です。）
 
 
-## LAST DAY'S LINES
+## LAST DAY'S LINES✏️
 
 I post a drawing every day on saharaforge's Instagram🎨.
 
