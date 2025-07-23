@@ -1,3 +1,3 @@
-## JULY 2025.
+## 2025.07.23
 
-Illustrations from July 2025.
+Illustrations from July 23 2025.
