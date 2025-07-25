@@ -9,6 +9,7 @@ by IBIS PAINT
 ### Caption
 
 『紅の誘い』
+
 "The Ember Reaches for Crimson"
 
 #DigitalArt #SurrealArt #SymbolicArt #PoeticVisuals #DarkAesthetic  
