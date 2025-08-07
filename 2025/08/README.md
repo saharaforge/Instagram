@@ -1,3 +1,3 @@
-## AUGAST 2025.
+## AUGUST 2025.
 
-Illustrations from Augast 2025.
+Illustrations from August 2025.
